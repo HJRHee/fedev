@@ -1,15 +1,5 @@
 text 123
 
-123123123
+.txt{ }
 
 456456
-
-bbbbbbbb
-aaaaaaaa
-
-Second Modified by Remote Repo
-
-modify user 1
-modify user 2
-
-modify user 2-2
